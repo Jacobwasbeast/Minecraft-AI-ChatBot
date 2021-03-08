@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "aichatbot",
+	"version": "${version}",
+
+	"name": "Ai-Chatbot",
+	"description": "Ai_Chatbot which can be used ingame during Multiplayer or Singleplayer",
+	"authors": [
+		"Jacobwasbeast"
+	],
+	"contact": {
+		"sources": "https://github.com/Jacobwasbeast/Minecraft-AI-ChatBot"
+	},
+
+	"license": "MIT",
+	"icon": "assets/ai-chatbot/icon.png",
+
+	"environment": "*",
+	"entrypoints": {
+		"main": ["net.jacobmc.ai.chatbot.Main"]
+	},
+	"mixins": [
+		"mixins.ai.chatbot.json"
+	],
+	"depends": {
+		"fabric": "*",
+		"minecraft": "*"
+	}
+}

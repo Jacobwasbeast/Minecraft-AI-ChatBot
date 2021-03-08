@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/jacobmc/ai/chatbot/mixins/ChatMixin": {
+      "sendMessage(Ljava/lang/String;)V": "Lnet/minecraft/class_437;method_25427(Ljava/lang/String;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/jacobmc/ai/chatbot/mixins/ChatMixin": {
+        "sendMessage(Ljava/lang/String;)V": "Lnet/minecraft/class_437;method_25427(Ljava/lang/String;)V"
+      }
+    }
+  }
+}

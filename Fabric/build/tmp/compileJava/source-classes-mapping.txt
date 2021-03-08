@@ -1,0 +1,28 @@
+com/google/code/chatterbotapi/Utils.java
+ com.google.code.chatterbotapi.Utils
+com/google/code/chatterbotapi/ChatterBotType.java
+ com.google.code.chatterbotapi.ChatterBotType
+net/jacobmc/ai/chatbot/mixins/ChatMixin.java
+ net.jacobmc.ai.chatbot.mixins.ChatMixin
+com/google/code/chatterbotapi/Pandorabots.java
+ com.google.code.chatterbotapi.Pandorabots
+ com.google.code.chatterbotapi.Pandorabots$Session
+com/google/code/chatterbotapi/ChatterBot.java
+ com.google.code.chatterbotapi.ChatterBot
+net/jacobmc/ai/chatbot/events/ChatEvent.java
+ net.jacobmc.ai.chatbot.events.ChatEvent
+com/google/code/chatterbotapi/ChatterBotThought.java
+ com.google.code.chatterbotapi.ChatterBotThought
+com/google/code/chatterbotapi/ChatterBotSession.java
+ com.google.code.chatterbotapi.ChatterBotSession
+com/google/code/chatterbotapi/ChatterBotFactory.java
+ com.google.code.chatterbotapi.ChatterBotFactory
+ com.google.code.chatterbotapi.ChatterBotFactory$1
+com/google/code/chatterbotapi/Cleverbot.java
+ com.google.code.chatterbotapi.Cleverbot
+ com.google.code.chatterbotapi.Cleverbot$Session
+net/jacobmc/ai/chatbot/Main.java
+ net.jacobmc.ai.chatbot.Main
+ net.jacobmc.ai.chatbot.Main$1
+ net.jacobmc.ai.chatbot.Main$1$1
+ net.jacobmc.ai.chatbot.Main$1$2
