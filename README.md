@@ -11,7 +11,7 @@ PLEASE IF YOU RUN INTO ANY PROBLEMS DO THE FOLLOWING
 
 2. Check if their is a fix in the new version
 
-3. If not make a bug report on the github by hitting source on the curseforge page. 
+3. If not make a bug report on the issues tab. 
 
 When making a report add 2 tags the Forge or Fabric tag and the Version Tag 
 <br>
