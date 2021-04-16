@@ -4,6 +4,16 @@
 <br>
 <h1> Fabric-1.16 - Fabric-1.17  & Forge 1.16</h1>
 <br>
+
+PLEASE IF YOU RUN INTO ANY PROBLEMS DO THE FOLLOWING
+
+1. Replicate the problem
+
+2. Check if their is a fix in the new version
+
+3. If not make a bug report on the github by hitting source on the curseforge page. 
+
+When making a report add 2 tags the Forge or Fabric tag and the Version Tag 
 <br>
 <h2> Instructions Chat Version:</h2>
 <br>
