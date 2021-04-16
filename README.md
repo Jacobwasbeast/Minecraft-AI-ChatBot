@@ -13,7 +13,7 @@ PLEASE IF YOU RUN INTO ANY PROBLEMS DO THE FOLLOWING
 
 3. If not make a bug report on the issues tab. 
 
-When making a report add 2 tags the Forge or Fabric tag and the Version Tag 
+When making a report add 2 labels the Forge or Fabric label and the Version label 
 <br>
 <h2> Instructions Chat Version:</h2>
 <br>
